@@ -11,3 +11,23 @@ body {
   color: #222;
   padding-bottom: 50px;
 }
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.hero{
+    background-image: url('https://unsplash.com/photos/9z9fxr_7Z-k');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    margin-bottom: 20px;
+}
